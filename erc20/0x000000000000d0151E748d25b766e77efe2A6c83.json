@@ -1,0 +1,24 @@
+{
+  "symbol": "XDEX",
+  "address": "0x000000000000d0151E748d25b766e77efe2A6c83",
+  "overview":{
+        "en": "xDeFi is a well-established DeFi protocol stack. Many best practices are introduced in xDeFi ecosystem, including xDEX, xHalfLife, xOption, xSTA and many other DeFi building blocks which are essential for a well-ordered market.",
+        "zh": "XDEFI是一个去中心化金融（DeFi）协议栈，致力于许多最佳实践，包括但不限于：xDEX作为优化的自动化做市交易所、xHalfLife作为流支付协议用于延迟解锁、xOption作为欧式带封顶期权用于低频对冲现货风险、xPerp作为AMM形式的链上永续合约、xSTA作为从加密资产中铸造的混合型稳定币、xNFTEX作为高流动性NFT市场，以及对秩序井然的市场必不可少的任何其他DeFi构建块。"
+  },
+  "email": "team@xdefi.com",
+  "website": "https://xdefi.com/",
+  "whitepaper": "https://docs.xdefi.com/en/whitepaper",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2021-03-18",
+  "initial_price":{
+        "USD":"0.48 USD"
+  },
+  "links": {
+    "blog": "https://www.chainnews.com/u/895866208677.htm",
+    "twitter": "https://twitter.com/xdefilab",
+    "telegram": "http://t.me/xdefilab",
+    "discord": "https://discord.com/invite/E5Y8hpb",
+    "github": "https://github.com/xdefilab",
+    "medium": "https://xdefilab.medium.com"
+  }
+}
